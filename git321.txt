@@ -1,0 +1,27 @@
+pwd
+
+cd desktop
+
+ls -l
+
+cd git_123
+
+pwd
+
+ls -l
+
+git init
+
+git add .
+
+git status
+
+git commit -m "abcd"
+
+git config --global user.email "shrikanthfd@gmail.com"
+git config --global user.name "shrikanthfd"
+
+git push -u xyz master
+
+
+
